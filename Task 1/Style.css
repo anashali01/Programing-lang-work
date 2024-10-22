@@ -1,0 +1,23 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+button{
+    position: absolute;
+    font-size: 50px;
+    border-radius: 50%;
+    padding: 10px 20px;
+    border: none;
+    top: 350px;
+}
+#2btn{
+    position: absolute;
+    left: 0;
+    right: 10%;
+}
+.btn{
+    position: absolute;
+    right: 100px;
+    top: 0;
+}
