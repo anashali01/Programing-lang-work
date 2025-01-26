@@ -16,4 +16,4 @@ x = str(3)
 y = int(3)
 z = float(4)
 
-print(x  , y  , z)
+print(x  , y  ,    z)
