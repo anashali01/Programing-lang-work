@@ -17,3 +17,7 @@ y = int(3)
 z = float(4)
 
 print(x  , y  ,    z)
+
+name = "Anashali" #string datatype
+age = 18 #int datatype
+price = 340.79 #float datatype
