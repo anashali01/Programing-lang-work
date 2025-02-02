@@ -1,5 +1,5 @@
 #palindrome number
-num1 = int(input("Enter your number :"))
+num1 = int(input("Enter  your number :"))
 
 temp = num1
 
